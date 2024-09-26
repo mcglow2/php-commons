@@ -1,0 +1,17 @@
+{
+    "name": "mcglow2/php-helper",
+    "description": "Common classes for rapidly building light weight php applications",
+    "type": "library",
+    "license": "GNUv3",
+    "autoload": {
+        "psr-4": {
+            "Mcglow2\\PhpHelper\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jay McGlothlin"
+        }
+    ],
+    "require": {}
+}
